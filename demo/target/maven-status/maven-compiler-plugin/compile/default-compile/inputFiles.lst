@@ -1,0 +1,16 @@
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\configuration\WebConfig.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\controllers\ColaboradorController.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\controllers\UserController.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\DTOs\ColaboradorDTO.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\exception\DuplicateEmailException.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\exception\ValidationExceptionHandler.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\models\Colaborador.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\models\Tarea.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\models\User.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\repos\ColaboradorRepository.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\repos\TareaRepository.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\repos\UserRepository.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\services\ColaboradorService.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\services\UserService.java
+C:\Users\David\OneDrive\Escritorio\sinergia-test\demo\src\main\java\com\example\demo\utils\JWTUtil.java
